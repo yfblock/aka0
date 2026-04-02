@@ -1,2 +1,3 @@
 /build_riscv_debug
 *.o
+cvitek_tpu_sdk
